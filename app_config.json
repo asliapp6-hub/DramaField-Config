@@ -2,12 +2,11 @@
   "maintenance": {
     "enabled": true,
     "title": "التطبيق تحت الصيانة",
-    "message": "نعمل حاليًا على تحسين Drama Field وتطوير بعض الخدمات. يرجى المحاولة مرة أخرى لاحقًا.",
+    "message": "نعمل حاليًا على تحسين التطبيق وتطوير بعض الخدمات. يرجى المحاولة لاحقًا.",
     "estimated_time": "سنعود قريبًا"
   },
   "update": {
     "force": false,
-    "latest_version": "1.0.0",
     "minimum_version": "1.0.0",
     "url": ""
   },
