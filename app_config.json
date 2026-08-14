@@ -1,20 +1,7 @@
 {
   "maintenance": {
-    "enabled": false,
-    "title": "",
-    "message": "",
-    "estimated_time": ""
-  },
-  "update": {
-    "enabled": false,
-    "version": "1.0.0",
-    "title": "",
-    "message": "",
-    "url": ""
-  },
-  "announcement": {
-    "enabled": false,
-    "title": "",
-    "message": ""
+    "enabled": true,
+    "title": "التطبيق تحت الصيانة",
+    "message": "نعمل حاليًا على تحسين التطبيق. يرجى المحاولة لاحقًا."
   }
 }
