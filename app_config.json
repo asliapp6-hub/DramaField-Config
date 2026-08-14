@@ -1,13 +1,15 @@
 {
   "maintenance": {
-    "enabled": true,
-    "title": "التطبيق تحت الصيانة",
-    "message": "نعمل حاليًا على تحسين التطبيق وتطوير بعض الخدمات. يرجى المحاولة لاحقًا.",
-    "estimated_time": "سنعود قريبًا"
+    "enabled": false,
+    "title": "",
+    "message": "",
+    "estimated_time": ""
   },
   "update": {
-    "force": false,
-    "minimum_version": "1.0.0",
+    "enabled": false,
+    "version": "1.0.0",
+    "title": "",
+    "message": "",
     "url": ""
   },
   "announcement": {
